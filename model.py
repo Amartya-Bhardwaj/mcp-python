@@ -1,0 +1,3 @@
+
+def getModel():
+    model = LLM
